@@ -1,7 +1,7 @@
 # DSAI3202
 ## 5.d. Explain and Run the Algorithm (5 pts)
 
-### 🔹 Explanation of `genetic_algorithm_trial.py`
+### 🔹 Explanation of genetic_algorithm_trial.py
 The script genetic_algorithm_trial.py implements a **Genetic Algorithm (GA)** to optimize city routes. It uses **MPI parallelization** to improve efficiency. Below are the key steps:
 
 1 **Initialize Population**:  
