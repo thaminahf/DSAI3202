@@ -101,7 +101,7 @@ for generation in range(num_generations):
 if rank == 0:
     end_time = time.time()
     execution_time = end_time - start_time
-    print(f"⏳ Execution Time: {execution_time:.5f} sec", flush=True)
+    print(f" Execution Time: {execution_time:.5f} sec", flush=True)
 
 # Final evaluation (only rank 0 prints results)
 # Validate the best solution
